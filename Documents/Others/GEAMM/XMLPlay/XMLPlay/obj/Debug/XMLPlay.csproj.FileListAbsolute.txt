@@ -1,0 +1,2 @@
+E:\GitHub\Egret\Documents\GameEngineDesign\GEAMM\XMLPlay\XMLPlay\bin\Debug\XMLPlay.exe.config
+E:\GitHub\Egret\Documents\GameEngineDesign\GEAMM\XMLPlay\XMLPlay\obj\Debug\XMLPlay.csprojResolveAssemblyReference.cache
